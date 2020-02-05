@@ -1,0 +1,54 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Featured",
+            "blogTitle" : "Lorem ipsum nascetur diam torquent",
+            "slug": "lorem-ipsum-nascetur-diam-torquent",
+            "postedOn": "February 4, 2020",
+            "author": "Samson Kitigo",
+            "blogImage": "409df1a5eb5fcf933eb7f4bb85d409b6.jpg",
+            "blogText": "Purus Convallis nascetur diam torquent sit id adipiscing in netus praesent etiam enim nec massa fusce orci nam potenti hac tortor montes placerat tortor natoque ante volutpat Class class platea hymenaeos. Nibh. Nec Ipsum tincidunt nam cubilia. Quisque aptent, fusce, molestie nostra curae; suscipit justo neque pede erat sollicitudin hendrerit faucibus phasellus tincidunt blandit id cursus non quam consectetuer ridiculus At, malesuada sed vestibulum Varius convallis in, risus facilisi sollicitudin laoreet curae; urna platea nec Montes suscipit, tristique sapien vulputate egestas est.\n\nLacus pretium. Vulputate sed penatibus commodo. Mus eget facilisis dui orci etiam nibh facilisis Rutrum adipiscing platea. Torquent pulvinar quam. Diam ante dignissim tincidunt proin curae; nulla nisi. Facilisi. Ultrices enim metus quam ipsum nisl mattis potenti, ullamcorper eleifend porta praesent malesuada, parturient aliquam sollicitudin tortor vel sollicitudin luctus varius congue placerat leo id nonummy luctus facilisi vehicula fames Montes justo. Ridiculus vel aliquam class dictumst. Malesuada taciti est id tortor."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Simple",
+            "blogTitle": "Mus eget facilisis dui orci",
+            "slug": "mus-eget-facilisis-dui-orci",
+            "postedOn": "January 20, 2020",
+            "author": "Samson Kitigo",
+            "blogImage": "2735c343bcbc2d3bbff6117f164afc5f.jpg",
+            "blogText": "Purus Convallis nascetur diam torquent sit id adipiscing in netus praesent etiam enim nec massa fusce orci nam potenti hac tortor montes placerat tortor natoque ante volutpat Class class platea hymenaeos. Nibh. Nec Ipsum tincidunt nam cubilia. Quisque aptent, fusce, molestie nostra curae; suscipit justo neque pede erat sollicitudin hendrerit faucibus phasellus tincidunt blandit id cursus non quam consectetuer ridiculus At, malesuada sed vestibulum Varius convallis in, risus facilisi sollicitudin laoreet curae; urna platea nec Montes suscipit, tristique sapien vulputate egestas est.\n\nLacus pretium. Vulputate sed penatibus commodo. Mus eget facilisis dui orci etiam nibh facilisis Rutrum adipiscing platea. Torquent pulvinar quam. Diam ante dignissim tincidunt proin curae; nulla nisi. Facilisi. Ultrices enim metus quam ipsum nisl mattis potenti, ullamcorper eleifend porta praesent malesuada, parturient aliquam sollicitudin tortor vel sollicitudin luctus varius congue placerat leo id nonummy luctus facilisi vehicula fames Montes justo. Ridiculus vel aliquam class dictumst. Malesuada taciti est id tortor."
+        },
+        {
+            "id": 3,
+            "blogCategory": "Simple",
+            "blogTitle": "Malesuada sed vestibulum Varius",
+            "slug": "malesuada-sed-vestibulum-Varius",
+            "postedOn": "August 3, 2020",
+            "author": "Samson Kitigo",
+            "blogImage": "47196969b2d06d861ebcde81d4f0febc.jpg",
+            "blogText": "Purus Convallis nascetur diam torquent sit id adipiscing in netus praesent etiam enim nec massa fusce orci nam potenti hac tortor montes placerat tortor natoque ante volutpat Class class platea hymenaeos. Nibh. Nec Ipsum tincidunt nam cubilia. Quisque aptent, fusce, molestie nostra curae; suscipit justo neque pede erat sollicitudin hendrerit faucibus phasellus tincidunt blandit id cursus non quam consectetuer ridiculus At, malesuada sed vestibulum Varius convallis in, risus facilisi sollicitudin laoreet curae; urna platea nec Montes suscipit, tristique sapien vulputate egestas est.\n\nLacus pretium. Vulputate sed penatibus commodo. Mus eget facilisis dui orci etiam nibh facilisis Rutrum adipiscing platea. Torquent pulvinar quam. Diam ante dignissim tincidunt proin curae; nulla nisi. Facilisi. Ultrices enim metus quam ipsum nisl mattis potenti, ullamcorper eleifend porta praesent malesuada, parturient aliquam sollicitudin tortor vel sollicitudin luctus varius congue placerat leo id nonummy luctus facilisi vehicula fames Montes justo. Ridiculus vel aliquam class dictumst. Malesuada taciti est id tortor."
+        },
+        {
+            "id": 4,
+            "blogCategory": "Featured",
+            "blogTitle": "Ridiculus vel aliquam class dictumst",
+            "slug": "ridiculus-vel-aliquam-class-dictumst",
+            "postedOn": "Jan 02, 2020",
+            "author": "Samson Kitigo",
+            "blogImage": "a332fbd4a6e08ea5a03396b912149f86.jpg",
+            "blogText": "Purus Convallis nascetur diam torquent sit id adipiscing in netus praesent etiam enim nec massa fusce orci nam potenti hac tortor montes placerat tortor natoque ante volutpat Class class platea hymenaeos. Nibh. Nec Ipsum tincidunt nam cubilia. Quisque aptent, fusce, molestie nostra curae; suscipit justo neque pede erat sollicitudin hendrerit faucibus phasellus tincidunt blandit id cursus non quam consectetuer ridiculus At, malesuada sed vestibulum Varius convallis in, risus facilisi sollicitudin laoreet curae; urna platea nec Montes suscipit, tristique sapien vulputate egestas est.\n\nLacus pretium. Vulputate sed penatibus commodo. Mus eget facilisis dui orci etiam nibh facilisis Rutrum adipiscing platea. Torquent pulvinar quam. Diam ante dignissim tincidunt proin curae; nulla nisi. Facilisi. Ultrices enim metus quam ipsum nisl mattis potenti, ullamcorper eleifend porta praesent malesuada, parturient aliquam sollicitudin tortor vel sollicitudin luctus varius congue placerat leo id nonummy luctus facilisi vehicula fames Montes justo. Ridiculus vel aliquam class dictumst. Malesuada taciti est id tortor."
+        },
+        {
+            "id": 5,
+            "blogCategory": "Fashion",
+            "blogTitle": "Ullamcorper eleifend porta praesent",
+            "slug": "ullamcorper-eleifend-porta-praesent",
+            "postedOn": "Feb 21, 2020",
+            "author": "Samson Kitigo",
+            "blogImage": "f93be862644c078eb2bcbec925f278d7.jpg",
+            "blogText": "Purus Convallis nascetur diam torquent sit id adipiscing in netus praesent etiam enim nec massa fusce orci nam potenti hac tortor montes placerat tortor natoque ante volutpat Class class platea hymenaeos. Nibh. Nec Ipsum tincidunt nam cubilia. Quisque aptent, fusce, molestie nostra curae; suscipit justo neque pede erat sollicitudin hendrerit faucibus phasellus tincidunt blandit id cursus non quam consectetuer ridiculus At, malesuada sed vestibulum Varius convallis in, risus facilisi sollicitudin laoreet curae; urna platea nec Montes suscipit, tristique sapien vulputate egestas est.\n\nLacus pretium. Vulputate sed penatibus commodo. Mus eget facilisis dui orci etiam nibh facilisis Rutrum adipiscing platea. Torquent pulvinar quam. Diam ante dignissim tincidunt proin curae; nulla nisi. Facilisi. Ultrices enim metus quam ipsum nisl mattis potenti, ullamcorper eleifend porta praesent malesuada, parturient aliquam sollicitudin tortor vel sollicitudin luctus varius congue placerat leo id nonummy luctus facilisi vehicula fames Montes justo. Ridiculus vel aliquam class dictumst. Malesuada taciti est id tortor."
+        }
+    ]
+}
